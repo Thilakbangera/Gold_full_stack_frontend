@@ -3,20 +3,34 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const faqItems = [
   {
-    question: "How do I activate Lumina AI?",
-    answer: "Activation instructions will be available soon. Stay tuned!"
+    question: "Why is gold price prediction important?",
+    answer:
+      "The gold industry is highly dynamic, with price fluctuations affecting both buyers and sellers. Accurate prediction helps in better decision-making for investments, inventory, and financial planning."
   },
   {
-    question: "How is Lumina AI different from other AI tools?",
-    answer: "Lumina AI specializes in truly understanding websites and generating 3D assets and animations."
+    question: "What are the limitations of traditional gold valuation methods?",
+    answer:
+      "Traditional methods rely on expert opinions and historical data. While useful, they often lack efficiency, scalability, and objectivity when market conditions change rapidly."
   },
   {
-    question: "How much usage is included with my Lumina AI plan?",
-    answer: "Plans vary — check your dashboard for detailed usage stats."
+    question: "How does machine learning improve gold price forecasting?",
+    answer:
+      "Machine learning analyzes complex patterns in large datasets. By using techniques like feature engineering and selection, ML models provide more accurate and data-driven predictions compared to traditional approaches."
   },
   {
-    question: "Can Lumina AI generate 3D assets or site animations?",
-    answer: "Yes! Lumina AI can generate true 3D sites and interactive animations."
+    question: "Which algorithms are used in the prediction model?",
+    answer:
+      "The model applies the SARIMAX algorithm, which is effective in capturing seasonality and trends in time series data for accurate gold price forecasting."
+  },
+  {
+    question: "How is model performance evaluated?",
+    answer:
+      "Performance is measured using metrics like Mean Absolute Percentage Error (MAPE), Root Mean Square Error (RMSE), and Mean Absolute Error (MAE). These metrics help assess accuracy and reliability."
+  },
+  {
+    question: "Who benefits from accurate gold price predictions?",
+    answer:
+      "Stakeholders in industries such as automotive and finance can use insights from ML-driven predictions to make informed decisions about pricing, inventory management, and financial evaluations."
   }
 ];
 
