@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+scipy
+statsmodels
+requests
+textblob
+
+# Machine learning / prediction
+scikit-learn
+
+# For SARIMAX / statsmodels
+matplotlib
+
+# Optional for deployment
+uvicorn
+fastapi
+python-multipart
+
+# Misc / utilities
+python-dotenv
+
+# NLP / sentiment
+nltk
