@@ -182,7 +182,7 @@ export default function PredictionTab() {
         )}
         {sentiment !== null && (
           <p className="mt-4 text-center text-white/80">
-            Market Sentiment Score: {sentiment.toFixed(2)}
+           
           </p>
         )}
       </motion.section>
@@ -231,3 +231,4 @@ export default function PredictionTab() {
     </div>
   );
 }
+
